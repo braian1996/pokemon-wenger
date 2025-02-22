@@ -60,6 +60,5 @@
   
   <style>
   .loading {
-    /* Añade aquí efectos CSS para el loading */
   }
   </style>

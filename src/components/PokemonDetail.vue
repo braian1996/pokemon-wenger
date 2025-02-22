@@ -23,5 +23,4 @@
   </script>
   
   <style>
-  /* Estilos para los detalles del Pokémon */
   </style>
